@@ -1,1 +1,1 @@
-{"url":"https://invisible-pure-stations-monkey.trycloudflare.com","schema":"belink.wa.upstream.v1","updated":"2026-09-21T01:59:52+03:00"}
+{"url":"https://179.198.208.144.sslip.io","schema":"belink.wa.upstream.v1","updated":"2026-09-21T22:51:00+03:00","dual_go":true,"meta_callback":"https://belink-wa-stable-hook.vercel.app/webhook","note":"Dual-GO Path A: Vercel always-on UPSTREAM = VPS HTTPS"}
